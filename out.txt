@@ -1,0 +1,33 @@
+Start of Tree Display
+------------------------
+animal bird fish fruit alligator bear cat cow deer dog horse lion tiger 
+-----------------------------------------
+blackbird crow dove flamingo 
+-----------------------------------------
+catfish garfish goldfish salmon swordfish 
+-----------------------------------------
+apple apricot avocado banana cherry coconut cranberry mango nectarine peach 
+-----------------------------------------
+
+-----------------------------------------
+
+User Search Ending.
+Start of Queries
+------------------------
+20 avocado found in fruit
+tilapia not found in fish
+15 cow found in animal
+21 crow found in bird
+cow not found in bird
+32 cat found in animal
+Items before deer: 4
+animal: Left Height 2, Right Height 4, Difference 2 Not Balanced
+bird: Left Height 0, Right Height 3, Difference 3 Not Balanced
+fish: Left Height 2, Right Height 2, Difference 0 Balanced
+flower does not exist.
+animal count: 164
+fruit count: 510
+koala not found in animal
+32 cat found in animal
+animal count: 164
+100 mango found in fruit
