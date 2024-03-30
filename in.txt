@@ -1,0 +1,50 @@
+4 28 17
+fish
+animal
+bird
+fruit
+animal cat 32
+fish goldfish 20
+animal dog 40
+bird blackbird 10
+animal bear 10
+fruit mango 100
+animal alligator 50
+animal tiger 4
+animal lion 2
+fish swordfish 10
+animal deer 5
+animal cow 15
+fish garfish 5
+fish catfish 55
+fish salmon 40
+bird crow 21
+bird dove 10
+bird flamingo 15
+fruit apple 50
+fruit banana 50
+fruit nectarine 10
+fruit coconut 10
+fruit peach 40
+fruit apricot 30
+fruit avocado 20
+fruit cherry 100
+fruit cranberry 100
+animal horse 6
+search fruit avocado
+search fish tilapia
+search animal cow
+search bird crow
+search bird cow
+search animal cat
+item_before animal deer
+height_balance animal
+height_balance bird
+height_balance fish
+search flower rose
+count animal
+count fruit
+search animal koala
+search animal cat
+count animal
+search fruit mango
